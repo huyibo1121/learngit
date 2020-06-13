@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 hahahahahahahaha
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-dasdasdasdadddddddddddddddddddddddddasdas.
+Git is a free software ...
