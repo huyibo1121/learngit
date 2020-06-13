@@ -1,2 +1,2 @@
-Hello word!!!
-Word hello!!!
+Hello word!!!Git is a distributed version control system.
+Word hello!!!Git is free software.
